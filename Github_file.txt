@@ -1,1 +1,3 @@
 Hello, the weather today is nice.
+
+I have added some changes to the file now.
